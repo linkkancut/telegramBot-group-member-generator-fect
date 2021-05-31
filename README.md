@@ -1,5 +1,5 @@
 # telegramBot-group-member-fect
-fect members from other groups, telegramBot, telegram bomber, telegram users, telegram free users, telegram member trial
+fect members from other groups, telegramBot, telegram bomber, telegram users, telegram free users, telegram member trial, telegram users, telegram free members, telegram group users
 
 Trial Version Is Limited With first 3000 members per group
 
